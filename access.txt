@@ -1,0 +1,10 @@
+SECRET_KEY: 1234567890abcdefghijklmnopqrstuvwxyz
+DATABASE_URL: postgresql://postgres:password@localhost:5432/mydb
+postgresql://postgres:password@localhost:5432/mydb -> postgresql://postgres:P@ssw0rd@localhost:5432/mydb
+mysql://root:password@localhost:3306/mydb -> mysql://root:P@ssw0rd@localhost:3306/mydb
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDx6VN... -> ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDx6VNjF098765432109876543210987654
+AWS_ACCESS_KEY_ID: AKIAIOSFODNN7EXAMPLE
+AWS_SECRET_ACCESS_KEY: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+GOOGLE_API_KEY: AIzaSyD6X391234567890-abcdefghijklmnopqrstuvwxyz
+FACEBOOK_APP_ID: 1234567890
+FACEBOOK_APP_SECRET: abcdefghijklmnopqrstuvwxyz
