@@ -1,0 +1,24 @@
+Server=tcp:myserver.database.windows.net,1433;Authentication=Active Directory Password;Database=myDataBase;UID=myUser@myDomain;PWD=myPassword;
+Data Source=myServer;Initial Catalog=myDB;Integrated Security=true;Column Encryption Setting=enabled;
+Provider=MSOLEDBSQL;Data Source=myServer;Initial Catalog=myDatabase;Authentication=SqlPassword;User ID=myUserName;Password=myPassword;Use Encryption for Data=true;
+
+export DOPPLER_TOKEN='dp.st.prd.45jh'
+
+vZ1ztHe3YNGFV0wtJ-SWj7RYHWVcjp7BanMTNfvy?DVHlSQD2ge5HA77gvkNZZWY!fvWLJ4R-3EWcmEHw!9jZ0/e3OefiQ1-6fLEuTjFF6SWVgHjs7CgtxfJutup1uY5oldGiViX1Z5AYps!B775H5tuz7ekZG8JNErrTstBpsQ7fYF8JjjJ7ha8xVz/gM6VFkAxZRPSiouVg!qQxIQBlOonBYUgZ6ONe4TgDhIDTlpY9UQ84jArfr0GxnhtBe5!
+h!-KCRtG!MbD/Zt5dksZP7h6XMAzjaqyJ6pdRVGTVrBNAfNHNEOf!aoXlZJ!JxaGNlTXTrby0cZu5=CzNELY0fflBrpmJc6M?9Cyw7jrF=LhdhjHmOBzIquku7TIZmh8eFZ=ScN=fekLcYaxdmfy3Ovumxqf390zoz4v!9flfGhfJ2wcdlQwvrpqCOxz=TFpl93XaaJjQB72Xg-h0EZudCppAeVfRowHU2UAbq-BMtjra-1kfCJxlt3fVFbExWuW
+k9BIwQYPZsHK?g39FlIS/z002FHn=sk8w1AdiyHEkZB?T5HD8beGRuL2nzzR2/XSRVLbAGgBxh43A0T6nCliZNNI4hXHLVNG78ZEorN6esLqKjnZcLAfnU/bryURasObQNE9=yYsEfC4twL-aDoR?j1=DFAUtF8w=CQzwk9zu78ItBQH8HbwqeZjsNmRWoici4E!v?osng4ABL/WobgkoB678fFy7K=51!Ztx7TgxXeCiRALIxDgIyrHkJqfQ=ZD
+AEWRF?W?ZN4076PbpRMztIyqaT9egVO/DaKT24S8=WWuc!wAxmAYz/-gSyWcSkfuhHN1VAUf9P=aqO9HhlGbWAoS8JQDC6MkyjsNrr?k4fYYd3OpTMN-vYAsbgwoL6mkUsnGulmQy44qH29XXFu??Uo9j3XpNU?f56vU2yU29GoIhWn7iUvpYZ/vdjllno?5Nhf-5M/6cVX?ATrPP0OYM?sTH8v5O=FFaqfWkCYbMztO2jHdFLHuLqJw!5o6gsfT
+W5oqE4KCMckjTZQLJIytoff98XBloN5scezkiZIhGnvLJatTbP6pcjFUOOpLtEdAq/u7o=2YjoCZ0WGSiUpYcokqwaaKyZWsaFuFWP6F4VVZf-PAl!GWg/XD=W9OIYWvrMW04Gb1kY1mvVX61q7Wb?GND5R48RPsWlmN/Oe5G5LKiInz0YlSKiiRuq4Hm!8RKlmRNZA4-JYnQC6UM5DUlAwyr9zxS-JMmcByeLQ7wvwbrI41tY1AtxODF?cxmUR!
+Rw7Y4e57i-FExYqy2D-x/IHji3QApHU9YY6xT!V1z74ghy3xynGfHAFm1RQrkOES6Em6o2auWgkBqNYlzw2vrPEI9jxidY4nFVg/D/wIs-dRFde2!QP?O!5A?cPxZpZRTOTeMnX7bY0zwmIP7uB7snaxr4RpF8BWlqzQ4tdIA=L-z?s4xCQ7KUtfpRdNu/pou0lKWmwI5FbdKV3VWiWOdCub0/SDxmo53Q4qtCbH7FoX!Pi350/ncB5/j-lMihzo
+Gz5h9?yg0!KkoQaEhA!QFwPBglGAy!cghPpuPzUvXdEkOPXni2k-uKDybjxGiqzUT6FNn1K7o05vKK1Jn?p6O7wDRRd=zfnyEyPaS!ej?DcT?ODhQJskRrrez5TTy/TqqY=9xKpGdUjYwqxMXYMDrZvSdjOxNJAQCoj2VahX8SYB/iJfY5A9AfFhqQeWfPxvTgI4EnQHcdsgcc!GZQxym0NYC=tdzTsKBw6/Hfn4-h2yjyrKNZcB79dVYy?NFGRI
+/=X7KqTt/uf?rt8cHG=TmacKtRAwGUEqAuDRpaz3Y1SuJGCFLqFI2QFvfu-pGC0?geuQ7Hikg=yWb7Lms9MP7wxp8m!ftptyJwuEliAZ?z9EvdtrguCJRIG79xhZYOY3pE=YXRsRV0MQgr-3Kk7hJQrEoxaGIJ/hcBuXxjOaS5QcQh?GW=6Az5E6j3ER=EhdIFWH3UDnBPQxxT3qXzIGub4N0HwZ-A!IiZ=0gJLeEino?g!TKhi!gKdLpIYFRwfR
+
+
+        {
+            "access_token": "xx508xx63817x752xx74004x30705xx92x58349x5x78f5xx34xxxxx51",
+            "created_at": "2015-11-11T03:36:18.714Z",
+            "expires_in": 36000,
+            "refresh_token": "628r9d0ev447xx4x421x517x4x474x33x2065x4x1xx523xxsd6x7x20",
+            "token_type": "bearer",
+            "account_id": 555555
+        }
